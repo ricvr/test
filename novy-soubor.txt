@@ -1,0 +1,3 @@
+
+nový nesledovaný soubor
+editace po git add
