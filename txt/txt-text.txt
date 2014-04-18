@@ -1,0 +1,2 @@
+
+textový soubor pro git
