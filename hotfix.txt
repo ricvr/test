@@ -1,1 +1,2 @@
 nový soubor oprava ve větvi HOTFIX
+20.4.	větev: MASTER - přídáno po připojení větve hotfix do master
