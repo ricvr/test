@@ -8,3 +8,4 @@ změna 20.4. 16:42 větev: MASTER
 změna 20.4. 19:40 větev: HOTFIX
 změna 20.4. 19:56 větev: HOTFIX
 vlozeno pred pushem na bitbucket
+vlozeno po klonovani
