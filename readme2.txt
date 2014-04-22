@@ -7,3 +7,4 @@ změna 19.4. 19:18
 změna 20.4. 16:42 větev: MASTER
 změna 20.4. 19:40 větev: HOTFIX
 změna 20.4. 19:56 větev: HOTFIX
+vlozeno po klonovani
